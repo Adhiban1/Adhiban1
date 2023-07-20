@@ -13,7 +13,7 @@ I am a dedicated and passionate data scientist with a strong foundation in data 
 - **Python:** Advanced proficiency in Python programming language, utilizing it as a primary tool for data manipulation and analysis.
 - **C++ & Rust for Speeding Up Python Code:** Well-versed in utilizing C++ and Rust to optimize Python code and enhance its performance.
 - **Numba & Cython:** Experienced in using Numba and Cython to further accelerate Python code execution.
-    Machine Learning: Strong understanding of machine learning algorithms and frameworks, employing them to develop predictive models and solve real-world problems.
+- **Machine Learning:** Strong understanding of machine learning algorithms and frameworks, employing them to develop predictive models and solve real-world problems.
 - **Deep Learning:** Skilled in applying deep learning techniques, including neural networks, to tackle complex tasks such as image recognition and natural language processing.
 - **Flask:** Proficient in building web applications using Flask, enabling seamless deployment and interaction with data-driven solutions.
 - **Django:** [Beginner]
