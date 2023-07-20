@@ -3,7 +3,7 @@ Welcome to My Data Science World! 🌍
 
 ## About Me
 
-I am a dedicated and passionate data scientist with a strong foundation in data analysis, visualization, and machine learning. Having recently completed a comprehensive 6-month Data Science course, I am equipped with the skills and knowledge necessary to excel in this field.
+I am a dedicated and passionate data scientist with a strong foundation in data analysis, visualization, and machine learning. Having recently completed a comprehensive 12-months Data Science course, I am equipped with the skills and knowledge necessary to excel in this field.
 
 ## Skills
 
